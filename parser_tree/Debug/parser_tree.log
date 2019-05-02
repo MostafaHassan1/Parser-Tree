@@ -1,0 +1,5 @@
+﻿  Source.cpp
+e:\projects\c++\parser_tree\parser_tree\source.cpp(1002): warning C4552: '>>': operator has no effect; expected operator with side-effect
+e:\projects\c++\parser_tree\parser_tree\source.cpp(317): warning C4715: 'parser::get_token': not all control paths return a value
+  parser_tree.vcxproj -> E:\Projects\C++\parser_tree\Debug\parser_tree.exe
+  parser_tree.vcxproj -> E:\Projects\C++\parser_tree\Debug\parser_tree.pdb (Partial PDB)
